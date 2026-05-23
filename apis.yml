@@ -1,0 +1,169 @@
+aid: mercor
+name: Mercor
+description: Mercor is an AI-powered talent and human-intelligence marketplace that organizes expert humans to power frontier
+  AI work. The platform routes specialized professionals (software engineers, finance and investment-banking experts, clinicians,
+  attorneys, generalist consultants) to AI labs and enterprises for RLHF data, SFT data, agent training, evals, frontier
+  research, and managed data pipelines. Mercor also ships APEX, a public research and benchmarking suite — APEX Benchmarks
+  (AI Productivity Index), APEX-Agents Leaderboard, and APEX-SWE Leaderboard. Mercor maintains documentation hubs at mercor.com/docs
+  and talent.docs.mercor.com (the expert-facing help center), and exposes a developer-facing documentation surface at mercor.com/docs/api.
+  Public API endpoint details are not advertised on the open web at this time; this profile documents the product and documentation
+  surfaces rather than endpoint shapes.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Talent Marketplace
+- Human Intelligence
+- RLHF
+- SFT
+- AI Evals
+- Data Pipelines
+- APEX Benchmarks
+url: https://raw.githubusercontent.com/api-evangelist/mercor/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis:
+- aid: mercor:mercor-platform
+  name: Mercor Talent Marketplace
+  description: The core Mercor platform that matches expert humans to AI lab and enterprise demand for RLHF, SFT, evals, agent
+    training, and frontier research projects. Domains covered include software engineering, finance and investment banking,
+    healthcare and clinical, legal, and generalist consulting.
+  humanURL: https://www.mercor.com
+  tags:
+  - Talent Marketplace
+  - Human Intelligence
+  - AI Training Data
+  properties:
+  - type: Documentation
+    url: https://www.mercor.com/docs
+  - type: GettingStarted
+    url: https://talent.docs.mercor.com/working/getting-started
+- aid: mercor:mercor-data-pipelines
+  name: Mercor Data Pipelines
+  description: Mercor's managed data-pipeline product for designing and operating large, expert-driven labeling and evaluation
+    pipelines for AI training data.
+  humanURL: https://www.mercor.com/docs/designing-a-data-pipeline/
+  tags:
+  - Data Pipelines
+  - Labeling
+  - Managed Service
+  properties:
+  - type: Documentation
+    url: https://www.mercor.com/docs/designing-a-data-pipeline/
+- aid: mercor:mercor-api
+  name: Mercor API
+  description: Mercor's developer-facing API documentation surface. Endpoint shapes and authentication details are not currently
+    published openly; access is via Mercor's enterprise sales process.
+  humanURL: https://www.mercor.com/docs/api/
+  tags:
+  - API
+  - Enterprise
+  properties:
+  - type: Documentation
+    url: https://www.mercor.com/docs/api/
+- aid: mercor:apex-benchmarks
+  name: APEX Benchmarks (AI Productivity Index)
+  description: Mercor's public AI productivity benchmark and research surface. APEX measures how well AI models perform real
+    expert-grade work.
+  humanURL: https://www.mercor.com
+  tags:
+  - Benchmarks
+  - Research
+  - Evals
+  properties:
+  - type: Documentation
+    url: https://www.mercor.com
+- aid: mercor:apex-agents-leaderboard
+  name: APEX-Agents Leaderboard
+  description: Public leaderboard for AI agent performance run by Mercor's research team.
+  humanURL: https://www.mercor.com
+  tags:
+  - Leaderboard
+  - Agents
+  - Evals
+  properties:
+  - type: Documentation
+    url: https://www.mercor.com
+- aid: mercor:apex-swe-leaderboard
+  name: APEX-SWE Leaderboard
+  description: Public leaderboard for AI software-engineering performance run by Mercor's research team.
+  humanURL: https://www.mercor.com
+  tags:
+  - Leaderboard
+  - Software Engineering
+  - Evals
+  properties:
+  - type: Documentation
+    url: https://www.mercor.com
+- aid: mercor:terminal-bench
+  name: Terminal-Bench
+  description: Public benchmark / task-submission framework published by Mercor (terminal-bench-3 on GitHub) for evaluating
+    AI agents on terminal-based engineering tasks.
+  humanURL: https://github.com/Mercor-io/terminal-bench-3
+  tags:
+  - Benchmarks
+  - Agents
+  - Open Source
+  properties:
+  - type: GitHubRepository
+    url: https://github.com/Mercor-io/terminal-bench-3
+common:
+- type: Portal
+  url: https://www.mercor.com
+- type: Documentation
+  url: https://www.mercor.com/docs
+- type: Documentation
+  url: https://talent.docs.mercor.com
+  name: Mercor Talent Help Center
+- type: APIReference
+  url: https://www.mercor.com/docs/api/
+- type: Blog
+  url: https://www.mercor.com/blog
+- type: Careers
+  url: https://www.mercor.com/careers/
+- type: GitHubOrganization
+  url: https://github.com/Mercor-io
+- type: SignUp
+  url: https://www.mercor.com/experts/
+  name: Expert Sign-Up
+- type: Support
+  url: https://talent.docs.mercor.com/working/getting-started
+- type: X
+  url: https://x.com/Mercor_ai
+- type: Features
+  data:
+  - name: AI Talent Marketplace
+    description: Routes expert humans across software engineering, finance, healthcare, legal, and consulting into AI lab
+      and enterprise projects.
+  - name: RLHF and SFT Data
+    description: Provides preference, reward, and demonstration data for foundation-model training.
+  - name: Agent Training Data
+    description: Specialist data for training and evaluating AI agents.
+  - name: Managed Data Pipelines
+    description: End-to-end design and operation of expert-driven labeling and evaluation pipelines.
+  - name: APEX Research Suite
+    description: Public benchmarks (AI Productivity Index, APEX-Agents, APEX-SWE) measuring real-world AI performance.
+  - name: Terminal-Bench
+    description: Open-source benchmark and task-submission framework for AI agents on terminal engineering tasks.
+- type: UseCases
+  data:
+  - name: Frontier Model RLHF
+    description: Source preference and reward data from domain experts for RLHF.
+  - name: Expert SFT Data
+    description: Capture demonstrations of expert workflows for supervised fine-tuning.
+  - name: AI Agent Evaluation
+    description: Benchmark agent performance against expert-graded tasks via APEX and Terminal-Bench.
+  - name: Enterprise Data Engineering
+    description: Stand up managed labeling and evaluation pipelines for enterprise AI programs.
+- type: Integrations
+  data:
+  - name: Slack
+    description: Expert workflows and team coordination run over Slack channels.
+  - name: GitHub
+    description: Engineering experts integrate with customer GitHub repositories for code-related work.
+  - name: Custom Data Pipelines
+    description: Mercor designs custom ingest and delivery pipelines per customer engagement.
+maintainers:
+- FN: Kin Lane
+  url: http://apievangelist.com
+  email: kin@apievangelist.com
