@@ -163,6 +163,8 @@ common:
     description: Engineering experts integrate with customer GitHub repositories for code-related work.
   - name: Custom Data Pipelines
     description: Mercor designs custom ingest and delivery pipelines per customer engagement.
+- type: LLMsTxt
+  url: https://talent.docs.mercor.com/llms.txt
 maintainers:
 - FN: Kin Lane
   url: http://apievangelist.com
