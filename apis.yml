@@ -123,7 +123,7 @@ common:
   url: https://www.mercor.com/careers/
 - type: GitHubOrganization
   url: https://github.com/Mercor-io
-- type: SignUp
+- type: Signup
   url: https://www.mercor.com/experts/
   name: Expert Sign-Up
 - type: Support
@@ -163,7 +163,7 @@ common:
     description: Engineering experts integrate with customer GitHub repositories for code-related work.
   - name: Custom Data Pipelines
     description: Mercor designs custom ingest and delivery pipelines per customer engagement.
-- type: LLMsTxt
+- type: LlmsText
   url: https://talent.docs.mercor.com/llms.txt
 maintainers:
 - FN: Kin Lane
