@@ -108,6 +108,8 @@ apis:
   - type: GitHubRepository
     url: https://github.com/Mercor-io/terminal-bench-3
 common:
+- type: DomainSecurity
+  url: security/mercor-domain-security.yml
 - type: Portal
   url: https://www.mercor.com
 - type: Documentation
