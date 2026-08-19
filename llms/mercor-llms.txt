@@ -1,0 +1,47 @@
+# Mercor
+
+## Docs
+
+- [Welcome to Mercor](https://talent.docs.mercor.com/welcome.md): Everything you need to get started as a Mercor talent — including interviews, payments, policies, and more.
+- [Work Trials](https://talent.docs.mercor.com/how-to/work-trial.md): Gain an understanding of how to accept, complete, and receive payment for a Mercor work trial.
+- [Apply for a Job](https://talent.docs.mercor.com/how-to/apply.md): A comprehensive guide to identifying roles, managing the application procedure, and submitting your initial application on Mercor.
+- [Create your Account](https://talent.docs.mercor.com/how-to/create-account.md): Create your Mercor account using passwordless email verification, explore roles, and monitor your applications.
+- [Refer someone](https://talent.docs.mercor.com/how-to/referrals.md): Troubleshooting, status updates, and assistance with your referral link and earnings sharing.
+- [Payments](https://talent.docs.mercor.com/how-to/payments.md): How and when Mercor pays you — and how to set up your payout account.
+- [Setup Your Profile](https://talent.docs.mercor.com/how-to/setup-your-profile.md): A comprehensive and professional guide to establishing your Mercor profile, submitting your résumé, and effectively showcasing your experience at an exemplary standard.
+- [Assessments](https://talent.docs.mercor.com/how-to/assessments.md): How Mercor assessments work, how they are evaluated, and how to use the new Assessments page to qualify for opportunities.
+- [Use Insightful for Time Tracking](https://talent.docs.mercor.com/how-to/use-insightful.md): We utilize Insightful for time management. Please follow this step-by-step guide to configure it appropriately and accurately record your time.
+- [Island Browser](https://talent.docs.mercor.com/how-to/island-browser.md): How to install and sign in to the Island Enterprise Browser for your Mercor project
+- [Okta Access](https://talent.docs.mercor.com/how-to/okta-access.md): Instructions for Accessing Mercor Work Tools through Okta Post-Offer Acceptance
+- [Mercor Expert Email](https://talent.docs.mercor.com/working/expert-email.md): Learn how Mercor Expert emails operate, when their use is appropriate, and the procedures for transitioning from legacy emails.
+- [Getting Started](https://talent.docs.mercor.com/working/getting-started.md): Everything you need for your first day on a Mercor project: onboarding, tooling, tracking, and access.
+- [Project Offboarding](https://talent.docs.mercor.com/working/project-offboarding.md): What transpires upon the conclusion of your project and the procedures involved in offboarding— including causes such as policy violations or performance issues.
+- [Project Onboarding](https://talent.docs.mercor.com/working/project-onboarding.md): A comprehensive guide on how to access, review, and accept your Mercor offer — including background checks, payments, and document signing.
+- [RL Studio (RLS)](https://talent.docs.mercor.com/working/rl-studio-rls.md): How to access, navigate, and work inside RL Studio to create and review tasks.
+- [How Mercor Uses AI and Data](https://talent.docs.mercor.com/policies/data-ai-usage.md): What data we collect, how we use it, where it's shown, how AI is involved, and how to request deletion.
+- [Background Check](https://talent.docs.mercor.com/policies/background-check.md): Mercor’s background check process ensures every contractor meets the highest standards of integrity, professionalism, and compliance through thorough global identity, credential, and criminal history verification.
+- [Contracts](https://talent.docs.mercor.com/policies/contracts.md): Learn about the different types of contracts you may receive as a Mercor talent, including how each one works and what to expect.
+- [Mercor Earnings](https://talent.docs.mercor.com/policies/earnings.md): The Earnings page provides experts with a centralized view of all their payments including contract wages, bonuses, work trials, and referrals. It replaces the previous contract payments view and makes it easier to track payment statuses in one place.
+- [LLM Usage Policy](https://talent.docs.mercor.com/policies/llm-usage.md): We appreciate the significance of artificial intelligence and large language models; however, it is imperative that their utilization is conducted responsibly.
+- [Supported Countries for Payment](https://talent.docs.mercor.com/policies/supported-countries.md): Mercor primarily utilizes Stripe Connect for the purpose of payment processing.
+- [Referral Policy and FAQs](https://talent.docs.mercor.com/policies/referrals.md): How Mercor’s referral program works: eligibility, earnings-sharing, tracking, and FAQs.
+- [Account Security and Conduct](https://talent.docs.mercor.com/policies/account-security-conduct.md): How and why Mercor monitors on-project activity, the behaviors we review, and the consequences of a violation — so you can work with confidence.
+- [Social Media and Internet Use Policies](https://talent.docs.mercor.com/policies/social-media.md): We have established specific guidelines for how you may present your work on social media and online platforms. These policies apply whenever you reference Mercor, our clients, or any work completed through our platform. Please review and follow them carefully.
+- [Taxes and Work Authorization](https://talent.docs.mercor.com/policies/taxes-work-authorization.md): Overview of required forms, reporting obligations, and how Mercor handles taxation.
+- [Time Tracking & Pay Policies](https://talent.docs.mercor.com/policies/time-tracking-pay.md): An overview of how Mercor monitors hours, the timing of payouts, and all associated policies.
+- [Wellness Resources](https://talent.docs.mercor.com/policies/wellness-resources.md): Free, optional wellness practices for experts: quick resets for focus and decompression, what to expect when working with sensitive content, and how to get support.
+- [AI Interview](https://talent.docs.mercor.com/support/ai-interview.md): An overview of Mercor’s AI interview process encompasses the preparatory strategies, protocols for resets and retakes, opportunities for practice interviews, considerations concerning data privacy and security, accessibility provisions, permitted utilization of AI tools, and sources of assistance.
+- [Get in Touch](https://talent.docs.mercor.com/support/get-in-touch.md): Contact Mercor support for assistance with account issues, payments, interviews, and additional inquiries.
+- [Mercor Glossary](https://talent.docs.mercor.com/support/glossary.md): Explore and comprehend the essential terms, tools, and concepts utilized throughout the Mercor platform and its associated projects.
+- [Legal Support](https://talent.docs.mercor.com/support/legal.md): Support for contracts, compliance, work authorization, and tax documentation.
+- [Managing Mercor Communications](https://talent.docs.mercor.com/support/manage-communication.md): How to control when and how Mercor contacts you through email, SMS, and WhatsApp.
+- [Maven](https://talent.docs.mercor.com/support/maven.md): Maven is Mercor's Slack-native AI assistant for day-to-day project support. Learn how to ask Maven effectively, what it can help with, and when to expect a human follow-up.
+- [Melvin](https://talent.docs.mercor.com/support/melvin.md): Melvin is Mercor's email-based AI support assistant for account, payments, contracts, referrals, and other inbox-driven questions. Learn how to email Melvin effectively, what it can help with, and when to expect a human follow-up.
+- [Project and Onboarding Support FAQ](https://talent.docs.mercor.com/support/project.md): Common questions and help for projects, contracts, tooling, payments, and access.
+- [Bugs](https://talent.docs.mercor.com/support/bugs.md): Quick browser fixes that resolve most issues and how to file a high‑quality bug report that engineering can act on.
+- [Application Fit Guidance](https://talent.docs.mercor.com/announcements-and-new-releases/application-fit.md): How Mercor assesses profile compatibility when you are applying to a listing.
+- [Peer Endorsements](https://talent.docs.mercor.com/announcements-and-new-releases/endorsements.md): Mercor now supports peer-to-peer endorsements through weekly surveys and project wrap-ups. Learn how to endorse your teammates and view endorsements you’ve received.
+- [Instant Work Offers](https://talent.docs.mercor.com/new-releases/instant-offer.md): Instant Offers are issued through Mercor’s matching system. When your verified interview performance, assessments, skills, and availability meet a listing’s criteria, your profile is surfaced to the hiring team as prequalified. Hiring managers may extend an offer based on this prior performance—with…
+- [New Application Steps](https://talent.docs.mercor.com/new-releases/new-application-steps.md): A smoother and more flexible application process is now available. With the new system, you’ll notice some important improvements designed to save time and make it easier to manage your applications.
+- [New Earnings Tab](https://talent.docs.mercor.com/new-releases/new-earnings-tab.md): You can now track your earnings across all your contracts in one place!
+- [Weekly Contractor Survey](https://talent.docs.mercor.com/new-releases/weekly-project-survey.md): Maintain alignment with your weekly work schedule and provide project feedback
