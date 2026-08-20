@@ -28,6 +28,14 @@ tags:
 - RLHF
 - SFT
 - AI Evals
+- Data Pipeline
+- APEX Benchmarks
+tags_raw:
+- Talent Marketplace
+- Human Intelligence
+- RLHF
+- SFT
+- AI Evals
 - Data Pipelines
 - APEX Benchmarks
 url: https://raw.githubusercontent.com/api-evangelist/mercor/refs/heads/main/apis.yml
@@ -56,6 +64,10 @@ apis:
     pipelines for AI training data.
   humanURL: https://www.mercor.com/docs/designing-a-data-pipeline/
   tags:
+  - Data Pipeline
+  - Labeling
+  - Managed Service
+  tags_raw:
   - Data Pipelines
   - Labeling
   - Managed Service
@@ -68,6 +80,8 @@ apis:
     published openly; access is via Mercor's enterprise sales process.
   humanURL: https://www.mercor.com/docs/api/
   tags:
+  - Enterprise
+  tags_raw:
   - API
   - Enterprise
   properties:
@@ -113,6 +127,10 @@ apis:
     AI agents on terminal-based engineering tasks.
   humanURL: https://github.com/Mercor-io/terminal-bench-3
   tags:
+  - Benchmarks
+  - Agents
+  - Open-Source
+  tags_raw:
   - Benchmarks
   - Agents
   - Open Source
