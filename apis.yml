@@ -9,6 +9,18 @@ description: Mercor is an AI-powered talent and human-intelligence marketplace t
   Public API endpoint details are not advertised on the open web at this time; this profile documents the product and documentation
   surfaces rather than endpoint shapes.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: true
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - pricing
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
