@@ -116,6 +116,10 @@ apis:
   description: Public leaderboard for AI agent performance run by Mercor's research team.
   humanURL: https://www.mercor.com
   tags:
+  - Leaderboards
+  - Agents
+  - Evals
+  tags_raw:
   - Leaderboard
   - Agents
   - Evals
@@ -127,6 +131,10 @@ apis:
   description: Public leaderboard for AI software-engineering performance run by Mercor's research team.
   humanURL: https://www.mercor.com
   tags:
+  - Leaderboards
+  - Software Engineering
+  - Evals
+  tags_raw:
   - Leaderboard
   - Software Engineering
   - Evals
