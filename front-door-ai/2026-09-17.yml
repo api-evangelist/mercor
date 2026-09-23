@@ -1,0 +1,30 @@
+# Front Door AI Index — mercor — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: mercor
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.mercor.com
+  final_host: www.mercor.com
+  ownership: own
+  owner: mercor
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 29
+  host_score: 29
+  density: 68.88
+  words: 421
+  tiers:
+    agentic: 3
+    core: 24
+    model: 2
+  ambiguous: 9
+  top_terms:
+    AI: 24
+    intelligence: 5
+    agent: 4
+    AI agent: 3
+    GPT: 1
+    Gemini: 1
