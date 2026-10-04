@@ -10,16 +10,19 @@ description: Mercor is an AI-powered talent and human-intelligence marketplace t
   surfaces rather than endpoint shapes.
 type: Index
 deliveryModel:
-  model: unknown
+  model: saas
+  license_evidence:
+    not_product:
+    - mercor-io/terminal-bench-3
   open_source: unknown
   commercial: true
   callable_host: false
-  label: Delivery model not determined — needs a product licence on record
+  label: Hosted service · you call their endpoint
   confidence: low
   source:
   - pricing
-  - repository-unlicensed
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: free
@@ -149,11 +152,12 @@ apis:
   tags:
   - Benchmarks
   - Agents
-  - Open-Source
+  - Open Source
   tags_raw:
   - Benchmarks
   - Agents
   - Open Source
+  - Open-Source
   properties:
   - type: GitHubRepository
     url: https://github.com/Mercor-io/terminal-bench-3
